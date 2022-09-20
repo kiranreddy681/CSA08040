@@ -1,1 +1,5 @@
-# CSA08040
+#isomporphic
+#sumsquare
+#max area
+#palindrome
+#happynumber
