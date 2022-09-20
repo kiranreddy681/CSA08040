@@ -1,10 +1,15 @@
-#isomporphic
-#sumsquare
-#max area
-#palindrome
-#happynumber
-#valid number
-#loaves of bread
-#leap
-#climb stairs
-#vowels in string
+CSA0840
+day- 1
+
+isomporphic
+sumsquare
+max area
+palindrome
+happynumber
+valid number
+loaves of bread
+leap
+vowels in string
+
+day-2 
+climb stairs
