@@ -12,4 +12,9 @@ leap,
 vowels in string,
 
 day-2 
-climb stairs
+climb stairs,
+modified string,
+calculator,
+merge two lists,
+words in string,
+parenthesis,
